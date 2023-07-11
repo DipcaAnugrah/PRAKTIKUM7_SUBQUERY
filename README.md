@@ -22,16 +22,16 @@ Subquery sangat fleksibel dan kuat karena memungkinkan penggunaan operasi dan fu
 
 ## **STUDI KASUS**
 
-**1. Tabel Departemen**
+**1. Tabel Departemen**  
 ![img](gambar/departemen.png)
 
-**2. Tabel Perusahaan**
+**2. Tabel Perusahaan**  
 ![img](gambar/perusahaan.png)
 
-**2. Tabel Karyawan**
+**2. Tabel Karyawan**  
 ![img](gambar/karyawan.png)
 
-**4. Tabel Project**
+**4. Tabel Project**  
 ![img](gambar/projet.png)
 
 **5. Tabel Project Detail**  
